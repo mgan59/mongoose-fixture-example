@@ -1,0 +1,15 @@
+{
+  "name": "mongoose-fixture-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Craft (http://morgancraft.com/)",
+  "license": "BSD",
+  "dependencies": {
+    "chance": "~0.4.2",
+    "mongoose-fixture": "~0.2.0"
+  }
+}
