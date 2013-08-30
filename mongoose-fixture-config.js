@@ -15,7 +15,7 @@ var FixtureConfig = require('mongoose-fixture').FixtureConfig;
 var fixtureConfig = FixtureConfig({
     mongoConnection:{
         'host':'localhost',
-        'port':'27020',
+        'port':'27017',
         'dbname':'fixture-test'
     },
     paths:{
